@@ -7,3 +7,6 @@ Rootbridge Academy partners with NPOs to provide affordable, quality driven and 
 ### School
 
 Non-profit fundraising has not been part of any curriculum in India, irrespective of its extensive practice for several decades. Fundraising NPOs while training its fundraisers, face challenges in the form of lack of structured resources, time management & at times its economic viability.
+
+
+![Rootbridge_logo](https://user-images.githubusercontent.com/40683703/74708862-b4edef00-5243-11ea-9193-86c8c9397e87.png)

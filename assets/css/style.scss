@@ -3,44 +3,8 @@
 
 // @import "{{ site.theme }}";
 
-// body {
-// 	background-image: url(https://www.freepik.com/free-vector/abstract-technology-particle-background_5617352.htm#page=1&query=technology%20background&position=1);
-// 	    background-repeat: no-repeat;
-//     background-attachment: fixed;
-//     background-position: center;;
-// }
-
-// .header {
-// 	background-image:url("![Rootbridge_logo](https://user-images.githubusercontent.com/40683703/74708862-b4edef00-5243-11ea-9193-86c8c9397e87.png)
-// ");
-// 	height:70px;
-// 	width:110%;
-// 	margin:-10px;
-// }
-
-// .footer {
-// 	position: absolute;
-// 	right: 0;
-// 	bottom: 0;
-// 	left: 0;
-//     height: 5%;
-//     color: #8b3436;
-// 	background-color: #000000;
-// 	text-align: center;
-// }
-
-// p {
-// 	margin-left: 20px;
-//     font-family: 'Courier New', Courier, 'Lucida Sans Typewriter', 'Lucida Typewriter', monospace;
-// 	font-size: 16px;
-// 	font-style: normal;
-// 	font-variant: normal;
-// 	font-weight: bold;
-// 	line-height: 26.4px;
-// }
-
 body    {  
-background: #693 url(green.jpg) no-repeat center top;  
+background: #693 url(green.jpg); // no-repeat center top;  
 }
 .container    {
     background: #fff;

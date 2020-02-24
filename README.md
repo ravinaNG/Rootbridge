@@ -1,4 +1,4 @@
-![Rootbridge_logo](https://user-images.githubusercontent.com/40683703/74708862-b4edef00-5243-11ea-9193-86c8c9397e87.png)
+<!-- ![Rootbridge_logo](https://user-images.githubusercontent.com/40683703/74708862-b4edef00-5243-11ea-9193-86c8c9397e87.png) -->
 
 ## Welcome to Rootbridge academy of giving
 
